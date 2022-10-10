@@ -1,2 +1,2 @@
-i#!/bin/bash
-echoi 'Best School'  >> "\\*\\\\'\"Best School\"\\'\\\\*$\\?\\*\\*\\*\\*\\*:)"
+#!/bin/bash
+echo 'Best School'  >> "\\*\\\\'\"Best School\"\\'\\\\*$\\?\\*\\*\\*\\*\\*:)"
